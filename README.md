@@ -2,7 +2,7 @@
 ### 🚀 About Me
 - 🌐 I design and develop **scalable web apps** with modern frameworks like **React**, **Next.js**, and **Node.js**.  
 - 👁️ I work on **computer vision projects** involving **Image processing**, **Object detection**, **Deep learning models**,**Train Machines**,**Hand gesture detection**  
-- 🧠 I enjoy integrating **AI models** into web platforms for real-world applications.  
+- 🧠 I enjoy integrating **AI models** into web platforms for real-world applications.
 - 💬 Ask me about **JavaScript**, **Python**, **OpenCV**, or **TensorFlow**.  
 - ⚡ Fun fact: I love merging creativity and technology — from pixels to production.
 
